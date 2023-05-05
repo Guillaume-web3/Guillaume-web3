@@ -29,7 +29,7 @@ Curious, I always seeking new challenges and opportunities to grow. I am passion
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%230078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=flat&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-%23323330.svg?style=flat&logo=prettier&logoColor=%23F7B93E)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)
 
   ## 📊 Github Stats:
 
