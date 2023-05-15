@@ -33,7 +33,7 @@ Curious, I always seeking new challenges and opportunities to grow. I am passion
 
   ## 📊 Github Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillaume-web3&layout=compact)](https://github.com/Guillaume-web3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillaume-web3&hide=php&layout=compact)](https://github.com/Guillaume-web3/github-readme-stats)
 
 <p align=center>Thank you for visiting my profile! 🙏</p>
 
